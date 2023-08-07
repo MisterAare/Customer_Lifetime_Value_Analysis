@@ -1,4 +1,5 @@
 # Customer Lifetime Value Analysis with Python
+# Maximizing Growth and Loyalty: The Power of Customer Lifetime Value Analysis
 
 
 # Introduction
