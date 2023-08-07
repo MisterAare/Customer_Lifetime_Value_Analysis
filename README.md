@@ -5,5 +5,5 @@ Customer lifetime value analysis is a crucial method used to calculate the total
 
 # References to the Customer Lifetime Value Analysis with Python
 
-<a href="https://github.com/MisterAare/Customer_Lifetime_Value_Analysis/blob/main/Python_Based_Analysis_of_Customer_Lifetime_Value.ipynb" target="_blank">Customer Lifetime Value Analysis with Python</a> 
+<a href="https://medium.com/@aareadegboyega/maximizing-growth-and-loyalty-the-power-of-customer-lifetime-value-analysis-381c5387288b" target="_blank">Customer Lifetime Value Analysis with Python</a> 
  
