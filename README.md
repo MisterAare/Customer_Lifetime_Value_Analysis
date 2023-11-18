@@ -12,7 +12,7 @@ In this section, I imported vital Python libraries and the dataset that will ser
 
 # Data Exploration
 
-In order to comprehend the dataset I’m handling, I engage in data exploration. This involves identifying patterns, comprehending interrelationships among columns, and detecting potential outliers. This preliminary analysis helps unveil insights and provides a foundational understanding of the data’s structure.
+In order to comprehend the dataset I’m handling, I engaged in data exploration. This involves identifying patterns, comprehending interrelationships among columns, and detecting potential outliers. This preliminary analysis helps unveil insights and provides a foundational understanding of the data’s structure.
 
 # Data Analysis and Visualization
 
